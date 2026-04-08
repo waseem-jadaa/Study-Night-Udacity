@@ -1,0 +1,12 @@
+# Mac files
+.DS_Store
+
+# Dependencies
+node_modules/
+
+# Build folders
+dist/
+build/
+
+# Logs
+npm-debug.log*
